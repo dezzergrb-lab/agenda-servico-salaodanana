@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22244528/README.md)
 # Salão da Naná — Agendamento (Vite + React + Tailwind)
 
 App de agendamento para o **Salão da Naná** com serviços, calendário, horários e confirmação via WhatsApp.
